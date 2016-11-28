@@ -1,0 +1,3 @@
+Some experiments with representing non-deterministic values
+as tree in Agda and support some basic functions and theorems
+for it (see nondet.agda and nondet-thms.agda).
